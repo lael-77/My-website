@@ -9,8 +9,6 @@ body {
   font-family: 'Helvetica Neue', sans-serif;
   color: #fff;
   background: url('gold1.jpeg')
-  height: 100vh;
-  overflow: hidden;
 }
 
 /* Header styles */
@@ -24,7 +22,7 @@ header {
 }
 
 .logo {
-  font-size: 22px;
+  font-size: 15px;
   font-weight: bold;
   letter-spacing: 2px;
 }
