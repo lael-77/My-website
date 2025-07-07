@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Helvetica Neue', sans-serif;
-  color: #fff;
+  color: #74e63f;
   background: url('gold1.jpeg')
 }
 
@@ -36,7 +36,7 @@ nav ul {
 
 nav a {
   text-decoration: none;
-  color: #fff;
+  color: #4ef038;
   transition: color 0.3s;
 }
 
@@ -80,7 +80,7 @@ nav a:hover {
   display: inline-block;
   padding: 12px 24px;
   background-color: #e91e63;
-  color: #fff;
+  color: #221212;
   text-decoration: none;
   font-weight: bold;
   border-radius: 6px;
